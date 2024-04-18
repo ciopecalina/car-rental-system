@@ -19,9 +19,3 @@ Decided to create this Java-based car rental system that provides an interactive
 
 ## Input
 You can provide input commands directly in the console or create an input.txt file in the resources folder to automate input.
-
-## Author
-[Your Name]
-
-## License
-This project is licensed under the [MIT License](LICENSE).
