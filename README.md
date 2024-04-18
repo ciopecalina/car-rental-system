@@ -1,4 +1,4 @@
-# Car Rental System 🚗🔑
+# Car Rental System 🚗
 
 ## Overview 
 Decided to create this Java-based car rental system that provides an interactive console interface for managing car rentals. It utilizes HashMaps for efficient data storage and retrieval.
