@@ -1,0 +1,14 @@
+This scenario covers various operations and error possibilities in the car rental system.
+This scenario includes:
+
+- Adding multiple cars with different owners.
+- Checking if specific cars are rented, including one that doesn't exist.
+- Getting the owner of specific cars, including one that doesn't exist.
+- Removing cars, including one that doesn't exist.
+- Getting the owner of a removed car.
+- Getting the number of cars rented by specific owners, including one that hasn't rented any cars.
+- Getting the list of cars rented by specific owners, including one that hasn't rented any cars.
+- Checking the total number of cars rented.
+- Attempting to remove a car that doesn't exist again.
+- Checking the total number of cars rented after attempted removal.
+- Quitting the application.
