@@ -1,9 +1,9 @@
-# Car Rental System 🚗
+# Car Rental System
 
-## Overview 
+## Overview 🚗
 Decided to create this Java-based car rental system that provides an interactive console interface for managing car rentals. It utilizes HashMaps for efficient data storage and retrieval.
 
-## Features
+## Features 
 - Add new car rentals with corresponding owners
 - Check if a car is already rented
 - Remove a rented car
